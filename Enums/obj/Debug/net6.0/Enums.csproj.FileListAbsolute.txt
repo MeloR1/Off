@@ -1,0 +1,15 @@
+E:\C# Projects\Fifo.Console1\Enums\bin\Debug\net6.0\Enums.exe
+E:\C# Projects\Fifo.Console1\Enums\bin\Debug\net6.0\Enums.deps.json
+E:\C# Projects\Fifo.Console1\Enums\bin\Debug\net6.0\Enums.runtimeconfig.json
+E:\C# Projects\Fifo.Console1\Enums\bin\Debug\net6.0\Enums.dll
+E:\C# Projects\Fifo.Console1\Enums\bin\Debug\net6.0\Enums.pdb
+E:\C# Projects\Fifo.Console1\Enums\obj\Debug\net6.0\Enums.csproj.AssemblyReference.cache
+E:\C# Projects\Fifo.Console1\Enums\obj\Debug\net6.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Projects\Fifo.Console1\Enums\obj\Debug\net6.0\Enums.AssemblyInfoInputs.cache
+E:\C# Projects\Fifo.Console1\Enums\obj\Debug\net6.0\Enums.AssemblyInfo.cs
+E:\C# Projects\Fifo.Console1\Enums\obj\Debug\net6.0\Enums.csproj.CoreCompileInputs.cache
+E:\C# Projects\Fifo.Console1\Enums\obj\Debug\net6.0\Enums.dll
+E:\C# Projects\Fifo.Console1\Enums\obj\Debug\net6.0\refint\Enums.dll
+E:\C# Projects\Fifo.Console1\Enums\obj\Debug\net6.0\Enums.pdb
+E:\C# Projects\Fifo.Console1\Enums\obj\Debug\net6.0\Enums.genruntimeconfig.cache
+E:\C# Projects\Fifo.Console1\Enums\obj\Debug\net6.0\ref\Enums.dll
